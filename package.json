@@ -1,0 +1,23 @@
+{
+  "name": "high-volume-sample-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadamwhite/high-volume-sample-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kadamwhite/high-volume-sample-data/issues"
+  },
+  "homepage": "https://github.com/kadamwhite/high-volume-sample-data#readme",
+  "dependencies": {
+    "faker": "^3.1.0"
+  }
+}
